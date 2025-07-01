@@ -8,7 +8,7 @@
       "request": "launch",
       "args": [],
       "cwd": "/Users/user/workspace/github/mbtc",
-      "program": "/Users/user/workspace/github/mbtc/hello_debug"
+      "program": "/Users/user/workspace/github/mbtc/01/hello_debug"
     }
   ]
 }
