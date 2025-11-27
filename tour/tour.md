@@ -19,7 +19,7 @@ $ moon run hello.mbt
 
 or run in vscode
 
-![ss](./tour/hello.png)
+![ss](../tour/hello.png)
 
 
 
