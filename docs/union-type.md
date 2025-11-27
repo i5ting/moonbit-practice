@@ -1,3 +1,5 @@
+
+```moonbit
 // 1) 定义联合类型
 enum IntOrStr {
   Int(int)
@@ -22,3 +24,4 @@ for x in arr.iter() {
     }
   }
 }
+```
